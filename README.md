@@ -31,5 +31,7 @@ Now you can run it by doing ```node main.js```
 
 In theory you should be able to adding multiple users with different settings (this is untested). Also, there's no error handling at this point.
 
+Also, in theory you should be able to run this through a cronjob.
+
 Please report any bugs or suffer in silence.
 
