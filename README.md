@@ -25,3 +25,5 @@ You need to create the file settings.json and configure it like so
 ]
 ```
 
+Now you can run it by doing ```node main.js```
+
