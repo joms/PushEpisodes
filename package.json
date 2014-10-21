@@ -1,0 +1,10 @@
+{
+    "name": "PushEpisodes",
+    "description": "Application that pushes todays airing episodes to PushBullet based on your episodes on MyEpisodes.net",
+    "repository": "https://github.com/joms/PushEpisodes",
+    "version": "0.0.1",
+    "main": "main.js",
+    "dependencies": {
+        "request": "*"
+    }
+}
