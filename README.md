@@ -27,3 +27,9 @@ You need to create the file settings.json and configure it like so
 
 Now you can run it by doing ```node main.js```
 
+---
+
+In theory you should be able to adding multiple users with different settings (this is untested). Also, there's no error handling at this point.
+
+Please report any bugs or suffer in silence.
+
