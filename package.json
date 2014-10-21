@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "main": "main.js",
     "dependencies": {
-        "request": "*"
+        "request": "*",
+        "xml2js": "*"
     }
 }
